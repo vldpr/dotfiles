@@ -7,6 +7,10 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+    "telemetry": {
+        "metrics": false,
+        "diagnostics": false
+    },
     "tab_size": 4,
     "soft_wrap": "editor_width",
     "format_on_save": "on",
