@@ -21,7 +21,7 @@
     "ui_font_family": ".SystemUIFont",
     "disable_ai": true,
     "ui_font_size": 15,
-    "buffer_font_size": 20,
+    "buffer_font_size": 18,
     "buffer_font_family": "Menlo",
     "theme": {
         "mode": "system",
