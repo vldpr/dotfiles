@@ -13,6 +13,8 @@
     "terminal.integrated.smoothScrolling": true,
     "editor.minimap.enabled": false,
     "editor.lightbulb.enabled": "off",
+    "editor.fontFamily": "SF Mono",
+    "editor.fontWeight": "500", //https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg
     "editor.fontSize": 18,
     "terminal.integrated.fontSize": 14,
     "window.customTitleBarVisibility": "never",
