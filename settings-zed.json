@@ -1,0 +1,43 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+    "use_system_window_tabs": true,
+    "features": {
+        "edit_prediction_provider": "none"
+    },
+    "telemetry": {
+        "metrics": false,
+        "diagnostics": false
+    },
+    "tab_size": 4,
+    "tab_bar": {
+        "show_nav_history_buttons": false
+    },
+    "soft_wrap": "editor_width",
+    "format_on_save": "on",
+    "autosave": {
+        "after_delay": {
+            "milliseconds": 3000
+        }
+    },
+    "formatter": "language_server",
+    "hard_tabs": false,
+    "auto_update": false,
+    "ui_font_family": ".SystemUIFont",
+    "disable_ai": true,
+    "ui_font_size": 15,
+    "buffer_font_size": 18,
+    "buffer_font_family": "SF Mono", // https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg
+    "buffer_font_weight": 500,
+    "theme": {
+        "mode": "system",
+        "light": "macOS Classic Light",
+        "dark": "macOS Classic Dark"
+    }
+}
